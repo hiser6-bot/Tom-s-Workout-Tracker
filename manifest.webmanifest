@@ -1,3 +1,20 @@
 {
-  "name":"Tom's Workout Tracker","short_name":"Tom Workout","start_url":"./Toms_Workout_Tracker.html","scope":"./","display":"standalone","background_color":"#0f0d11","theme_color":"#5b2a86","description":"Tom Hiser's mobile workout and progress tracker","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]
+  "name": "Tom's Workout Tracker",
+  "short_name": "Tom Workout",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f2f7",
+  "theme_color": "#5b2a86",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
